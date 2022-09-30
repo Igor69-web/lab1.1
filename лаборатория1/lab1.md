@@ -1,4 +1,4 @@
-﻿**Визуализация датасета
+﻿**Визуализация датасета**
 
 [Price of flats in Moscow](https://www.kaggle.com/datasets/hugoncosta/price-of-flats-in-moscow)
 
